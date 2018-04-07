@@ -1,0 +1,23 @@
+<template>
+    <StackLayout class="form">
+        <StackLayout class="input-field">
+            <TextField class="input"></TextField>
+        </StackLayout>
+
+        <StackLayout class="input-field">
+            <TextField class="input"></TextField>
+        </StackLayout>
+
+        <Button text="Log In" class="btn btn-primary"></Button>
+    </StackLayout>
+</template>
+
+<script>
+export default {
+  
+}
+</script>
+
+<style scoped>
+
+</style>

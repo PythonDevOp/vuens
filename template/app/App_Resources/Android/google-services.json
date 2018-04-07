@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543425346298",
+    "firebase_url": "https://vuens-ab94d.firebaseio.com",
+    "project_id": "vuens-ab94d",
+    "storage_bucket": "vuens-ab94d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543425346298:android:459163bd31908909",
+        "android_client_info": {
+          "package_name": "org.nativescript.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543425346298-soeecser2fff42t8rguudgbe8nhcoi25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfh467wgEDS-QQcHtvWXPzVzXUnvst0zM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
